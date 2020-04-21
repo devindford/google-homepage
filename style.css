@@ -1,0 +1,21 @@
+body {
+  background: rgb(255, 255, 255);
+  color: white;
+  font-family: Helvetica-neue, Helvetica, Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.left {
+  display: inline-flex;
+  flex-direction: row;
+}
+
+.top-right {
+  display: inline-flex;
+  flex-direction: row;
+}
+
+.apps {
+  size: 100px;
+}
