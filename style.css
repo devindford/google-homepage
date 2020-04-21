@@ -12,10 +12,17 @@ body {
 }
 
 .top-right {
-  display: inline-flex;
+  display: flex;
   flex-direction: row;
+  margin: auto;
+  width: 100%;
+  padding: 20px;
 }
 
 .apps {
-  size: 100px;
+    box-sizing: border-box;
+    height: 18px;
+    width: 18px;
+    background-position: -132px -38px;
+    opacity: .55;
 }
