@@ -5,24 +5,3 @@ body {
   margin: 0;
   padding: 0;
 }
-
-.left {
-  display: inline-flex;
-  flex-direction: row;
-}
-
-.top-right {
-  display: flex;
-  flex-direction: row;
-  margin: auto;
-  width: 100%;
-  padding: 20px;
-}
-
-.apps {
-    box-sizing: border-box;
-    height: 18px;
-    width: 18px;
-    background-position: -132px -38px;
-    opacity: .55;
-}
